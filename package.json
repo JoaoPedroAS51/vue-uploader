@@ -1,12 +1,21 @@
 {
   "name": "vue-uploader",
   "version": "0.1.0",
-  "private": true,
+  "description": "Vue File Uploader",
+  "author": {
+    "name": "João Pedro Antunes Silva",
+    "email": "joao-pedroas@hotmail.com"
+  },
+  "repository": "https://github.com/JoaoPedroAS51/vue-uploader",
+  "license": "MIT",
+  "private": false,
+  "files": ["dist"],
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "build": "vue-cli-service build --target lib --name vueUploader src/index.js",
     "lint": "vue-cli-service lint"
   },
+  "main": "dist/vueUploader.umd.js",
+  "unpkg": "dist/vueUploader.umd.min.js",
   "dependencies": {
     "core-js": "^2.6.5",
     "vue": "^2.6.10"
