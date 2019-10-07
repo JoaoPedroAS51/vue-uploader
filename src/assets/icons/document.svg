@@ -1,0 +1,11 @@
+<svg id="Camada_1" xmlns="http://www.w3.org/2000/svg" width="39.5" height="49.5"
+     viewBox="0 0 39.5 49.5">
+    <title>Document</title>
+    <path d="M38.25,10.58V46.25a2,2,0,0,1-2,2h-33a2,2,0,0,1-2-2v-43a2,2,0,0,1,2-2H28.92a2,2,0,0,1,1.42.59l7.32,7.32A2,2,0,0,1,38.25,10.58Z"
+          fill="#F9FAFD" stroke="#667283" stroke-linejoin="round" stroke-width="2.5"/>
+    <polyline points="38.25 10.12 29.23 10.12 29.23 1.25" fill="none" stroke="#667283" stroke-linejoin="round"
+              stroke-width="2.5"/>
+    <rect x="8.75" y="19.49" width="22" height="2.53" rx="1.26" fill="#667283"/>
+    <rect x="8.75" y="26.49" width="22" height="2.53" rx="1.26" fill="#667283"/>
+    <rect x="8.75" y="33.49" width="22" height="2.53" rx="1.26" fill="#667283"/>
+</svg>

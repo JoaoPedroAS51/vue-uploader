@@ -1,0 +1,9 @@
+<svg id="Camada_1" xmlns="http://www.w3.org/2000/svg" width="49.5" height="33.5"
+     viewBox="0 0 49.5 33.5">
+    <title>Image</title>
+    <rect x="1.25" y="1.25" width="47" height="31" rx="2" fill="#F9FAFD" stroke="#667283" stroke-linejoin="round"
+          stroke-width="2.5"/>
+    <polyline points="8.75 26.75 15.71 17.75 21.27 23.75 29.62 12.75 40.75 26.75 8.75 26.75" fill="#667283" stroke="#667283"
+              stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle cx="19.25" cy="9.25" r="2" fill="#667283"/>
+</svg>
