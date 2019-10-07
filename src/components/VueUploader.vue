@@ -9,7 +9,7 @@
         <div v-for="(file, key) in previews" :key="key" class="file" @click.stop>
           <img :src="file.url" :alt="file.name" v-if="file.type === 'image' && file.url">
           <div class="file__icon" v-else>
-            <img :src="`@/assets/icons/${file.type}.svg`" :alt="file.name">
+            <img :src="require('@/assets/icons/' + file.type + '.svg')" :alt="file.name">
           </div>
           <div class="file__details">
             <span class="file__name">{{ file.name }}</span>
